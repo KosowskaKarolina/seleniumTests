@@ -15,11 +15,11 @@
 ## Visual Studio
 ## ChromeDriver
 
-# clone repository using command:
-# git clone https://github.com/KosowskaKarolina/seleniumTests.git
+## clone repository using command:
+## git clone https://github.com/KosowskaKarolina/seleniumTests.git
 
-# Open the project in Visual Studio
+## Open the project in Visual Studio
 
-# Start the tests by clicking run in the Program.cs file
+## Start the tests by clicking run in the Program.cs file
 
 ## karolina.kosowska@proton.me
