@@ -6,8 +6,8 @@
 * I check whether the search results contain the phrase "Selenium"
 
 # Technologies
-Selenium
-.NET 6.0
+* Selenium
+* .NET 6.0
 
 # Setup
 ## Make sure you have the following tools installed:
@@ -15,11 +15,11 @@ Selenium
 * Visual Studio
 * ChromeDriver
 
-## clone repository using command:
-git clone https://github.com/KosowskaKarolina/seleniumTests.git
+<b> clone repository using command: </b>
+* git clone https://github.com/KosowskaKarolina/seleniumTests.git
 
-Open the project in Visual Studio
+* Open the project in Visual Studio
 
-Start the tests by clicking run in the Program.cs file
+* Start the tests by clicking run in the Program.cs file
 
 ## karolina.kosowska@proton.me
